@@ -1,0 +1,4 @@
+#Sat Jan 13 13:58:33 EST 2024
+base.0=C\:\\Users\\xavie\\Meetballs\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

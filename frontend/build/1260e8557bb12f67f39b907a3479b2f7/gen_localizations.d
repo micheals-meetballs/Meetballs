@@ -1,0 +1,1 @@
+ C:\\Users\\xavie\\Meetballs\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations_en.dart C:\\Users\\xavie\\Meetballs\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations.dart:  C:\\Users\\xavie\\Meetballs\\l10n.yaml C:\\Users\\xavie\\Meetballs\\lib/src/localization\\app_en.arb
